@@ -14,13 +14,16 @@ linear-regression model predicting `median_house_value`.
 Python · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn · ydata-profiling
 
 ## 📁 Project Structure
+
+```
 california-housing-eda/
-├── data/                # raw dataset (read-only)
-├── notebooks/           # Jupyter analysis
-├── outputs/             # cleaned data & generated reports
-├── src/                 # script version of the analysis
+├── data/            # raw dataset (read-only)
+├── notebooks/       # Jupyter analysis
+├── outputs/         # cleaned data & generated reports
+├── src/             # script version of the analysis
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚙️ Installation
 ```bash
